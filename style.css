@@ -1,0 +1,108 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+@media all and (min-width: 992px) {
+    .navbar .nav-item .dropdown-menu {
+        display: none;
+    }
+    .navbar .nav-item:hover .dropdown-menu {
+        display: block;
+    }
+    .navbar .nav-item .dropdown-menu {
+        margin-top: 0;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #showcase-shortcut-div,
+    #showcase-brand-div,
+    #showcase-chassis-div {
+        border-bottom: 1px solid gray;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #showcase-shortcut-div,
+    #showcase-brand-div,
+    #showcase-chassis-div,
+    #showcase-price-div {
+        border-bottom: 1px solid gray;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #showcase-items-list {
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .custom-showcase-list-group-item {
+        padding-top: 0;
+        padding-bottom: 2%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .custom-showcase-list-group-item {
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+}
+
+.list-group-item {
+    border: none;
+}
+
+@media(min-width: 768px) {
+    #nav-automobile,
+    #nav-motorcycle,
+    #nav-login {
+        position: relative;
+    }
+    #nav-automobile:after,
+    #nav-motorcycle::after,
+    #nav-login::after {
+        content: '';
+        height: 45%;
+        width: 1px;
+        position: absolute;
+        left: 0;
+        top: 27.5%;
+        bottom: 27.5%;
+        background-color: #000000;
+    }
+}
+
+#free {
+    color: crimson;
+    /* font-weight: 200; */
+    font-size: smaller;
+}
+
+#navbar-container,
+#showcase-container,
+#advertisement-container,
+#footer-container {
+    border-bottom: 1px solid gray;
+    max-width: 1050px;
+}
+
+#nav-search-input,
+#nav-search-icon {
+    border: none;
+}
+
+#nav-search {
+    border-bottom: 1px solid greenyellow;
+    border-radius: 10px;
+}
+
+#showcase-shortcut,
+#custom-x {
+    border: none;
+}
