@@ -28,7 +28,7 @@ function ShowCase(Case) {
 function ShowShortcutContent() {
 
     var hideContent = document.createElement('a');
-    hideContent.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    hideContent.href = "#";
     hideContent.className = "text-secondary text-decoration-none bg-white hide-content";
     hideContent.id = "custom-x";
 
@@ -62,7 +62,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutFirstItem);
 
     var shortcutFirstItemA = document.createElement('a');
-    shortcutFirstItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutFirstItemA.href = "#";
     shortcutFirstItem.appendChild(shortcutFirstItemA);
 
     var shortcutFirstItemCard = document.createElement('div');
@@ -88,7 +88,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutSecondItem);
 
     var shortcutSecondItemA = document.createElement('a');
-    shortcutSecondItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSecondItemA.href = "#";
     shortcutSecondItem.appendChild(shortcutSecondItemA);
 
     var shortcutSecondItemCard = document.createElement('div');
@@ -114,7 +114,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutThirdItem);
 
     var shortcutThirdItemA = document.createElement('a');
-    shortcutThirdItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutThirdItemA.href = "#";
     shortcutThirdItem.appendChild(shortcutThirdItemA);
 
     var shortcutThirdItemCard = document.createElement('div');
@@ -140,7 +140,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutForthItem);
 
     var shortcutForthItemA = document.createElement('a');
-    shortcutForthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutForthItemA.href = "#";
     shortcutForthItem.appendChild(shortcutForthItemA);
 
     var shortcutForthItemCard = document.createElement('div');
@@ -166,7 +166,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutFifthItem);
 
     var shortcutFifthItemA = document.createElement('a');
-    shortcutFifthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutFifthItemA.href = "#";
     shortcutFifthItem.appendChild(shortcutFifthItemA);
 
     var shortcutFifthItemCard = document.createElement('div');
@@ -192,7 +192,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutSixthItem);
 
     var shortcutSixthItemA = document.createElement('a');
-    shortcutSixthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSixthItemA.href = "#";
     shortcutSixthItem.appendChild(shortcutSixthItemA);
 
     var shortcutSixthItemCard = document.createElement('div');
@@ -218,7 +218,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutSeventhItem);
 
     var shortcutSeventhItemA = document.createElement('a');
-    shortcutSeventhItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSeventhItemA.href = "#";
     shortcutSeventhItem.appendChild(shortcutSeventhItemA);
 
     var shortcutSeventhItemCard = document.createElement('div');
@@ -244,7 +244,7 @@ function ShowShortcutContent() {
     shortcutRow.appendChild(shortcutEighthItem);
 
     var shortcutEighthItemA = document.createElement('a');
-    shortcutEighthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutEighthItemA.href = "#";
     shortcutEighthItem.appendChild(shortcutEighthItemA);
 
     var shortcutEighthItemCard = document.createElement('div');
@@ -267,7 +267,7 @@ function ShowShortcutContent() {
 
 function ShowBrandContent() {
     var hideContent = document.createElement('a');
-    hideContent.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    hideContent.href = "#";
     hideContent.className = "text-secondary text-decoration-none bg-white hide-content";
     hideContent.id = "custom-x";
 
@@ -295,7 +295,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutFirstItem);
 
     var shortcutFirstItemA = document.createElement('a');
-    shortcutFirstItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutFirstItemA.href = "#";
     shortcutFirstItem.appendChild(shortcutFirstItemA);
 
     var shortcutFirstItemCard = document.createElement('div');
@@ -321,7 +321,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutSecondItem);
 
     var shortcutSecondItemA = document.createElement('a');
-    shortcutSecondItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSecondItemA.href = "#";
     shortcutSecondItem.appendChild(shortcutSecondItemA);
 
     var shortcutSecondItemCard = document.createElement('div');
@@ -347,7 +347,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutThirdItem);
 
     var shortcutThirdItemA = document.createElement('a');
-    shortcutThirdItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutThirdItemA.href = "#";
     shortcutThirdItem.appendChild(shortcutThirdItemA);
 
     var shortcutThirdItemCard = document.createElement('div');
@@ -373,7 +373,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutForthItem);
 
     var shortcutForthItemA = document.createElement('a');
-    shortcutForthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutForthItemA.href = "#";
     shortcutForthItem.appendChild(shortcutForthItemA);
 
     var shortcutForthItemCard = document.createElement('div');
@@ -399,7 +399,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutFifthItem);
 
     var shortcutFifthItemA = document.createElement('a');
-    shortcutFifthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutFifthItemA.href = "#";
     shortcutFifthItem.appendChild(shortcutFifthItemA);
 
     var shortcutFifthItemCard = document.createElement('div');
@@ -425,7 +425,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutSixthItem);
 
     var shortcutSixthItemA = document.createElement('a');
-    shortcutSixthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSixthItemA.href = "#";
     shortcutSixthItem.appendChild(shortcutSixthItemA);
 
     var shortcutSixthItemCard = document.createElement('div');
@@ -451,7 +451,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutSeventhItem);
 
     var shortcutSeventhItemA = document.createElement('a');
-    shortcutSeventhItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSeventhItemA.href = "#";
     shortcutSeventhItem.appendChild(shortcutSeventhItemA);
 
     var shortcutSeventhItemCard = document.createElement('div');
@@ -477,7 +477,7 @@ function ShowBrandContent() {
     shortcutRow.appendChild(shortcutEighthItem);
 
     var shortcutEighthItemA = document.createElement('a');
-    shortcutEighthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutEighthItemA.href = "#";
     shortcutEighthItem.appendChild(shortcutEighthItemA);
 
     var shortcutEighthItemCard = document.createElement('div');
@@ -500,7 +500,7 @@ function ShowBrandContent() {
 
 function ShowChassisContent() {
     var hideContent = document.createElement('a');
-    hideContent.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    hideContent.href = "#";
     hideContent.className = "text-secondary text-decoration-none bg-white hide-content";
     hideContent.id = "custom-x";
 
@@ -528,7 +528,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutFirstItem);
 
     var shortcutFirstItemA = document.createElement('a');
-    shortcutFirstItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutFirstItemA.href = "#";
     shortcutFirstItem.appendChild(shortcutFirstItemA);
 
     var shortcutFirstItemCard = document.createElement('div');
@@ -554,7 +554,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutSecondItem);
 
     var shortcutSecondItemA = document.createElement('a');
-    shortcutSecondItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSecondItemA.href = "#";
     shortcutSecondItem.appendChild(shortcutSecondItemA);
 
     var shortcutSecondItemCard = document.createElement('div');
@@ -580,7 +580,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutThirdItem);
 
     var shortcutThirdItemA = document.createElement('a');
-    shortcutThirdItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutThirdItemA.href = "#";
     shortcutThirdItem.appendChild(shortcutThirdItemA);
 
     var shortcutThirdItemCard = document.createElement('div');
@@ -606,7 +606,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutForthItem);
 
     var shortcutForthItemA = document.createElement('a');
-    shortcutForthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutForthItemA.href = "#";
     shortcutForthItem.appendChild(shortcutForthItemA);
 
     var shortcutForthItemCard = document.createElement('div');
@@ -632,7 +632,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutFifthItem);
 
     var shortcutFifthItemA = document.createElement('a');
-    shortcutFifthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutFifthItemA.href = "#";
     shortcutFifthItem.appendChild(shortcutFifthItemA);
 
     var shortcutFifthItemCard = document.createElement('div');
@@ -658,7 +658,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutSixthItem);
 
     var shortcutSixthItemA = document.createElement('a');
-    shortcutSixthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSixthItemA.href = "#";
     shortcutSixthItem.appendChild(shortcutSixthItemA);
 
     var shortcutSixthItemCard = document.createElement('div');
@@ -684,7 +684,7 @@ function ShowChassisContent() {
     shortcutRow.appendChild(shortcutSeventhItem);
 
     var shortcutSeventhItemA = document.createElement('a');
-    shortcutSeventhItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    shortcutSeventhItemA.href = "#";
     shortcutSeventhItem.appendChild(shortcutSeventhItemA);
 
     var shortcutSeventhItemCard = document.createElement('div');
@@ -707,7 +707,7 @@ function ShowChassisContent() {
 
 function ShowPriceContent() {
     var hideContent = document.createElement('a');
-    hideContent.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    hideContent.href = "#";
     hideContent.className = "text-secondary text-decoration-none bg-white hide-content";
     hideContent.id = "custom-x";
 
@@ -740,7 +740,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceFirstItem);
 
     var priceFirstItemA = document.createElement('a');
-    priceFirstItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceFirstItemA.href = "#";
     priceFirstItem.appendChild(priceFirstItemA);
 
     var priceFirstItemCard = document.createElement('div');
@@ -766,7 +766,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceSecondItem);
 
     var priceSecondItemA = document.createElement('a');
-    priceSecondItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceSecondItemA.href = "#";
     priceSecondItem.appendChild(priceSecondItemA);
 
     var priceSecondItemCard = document.createElement('div');
@@ -792,7 +792,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceThirdItem);
 
     var priceThirdItemA = document.createElement('a');
-    priceThirdItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceThirdItemA.href = "#";
     priceThirdItem.appendChild(priceThirdItemA);
 
     var priceThirdItemCard = document.createElement('div');
@@ -818,7 +818,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceForthItem);
 
     var priceForthItemA = document.createElement('a');
-    priceForthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceForthItemA.href = "#";
     priceForthItem.appendChild(priceForthItemA);
 
     var priceForthItemCard = document.createElement('div');
@@ -844,7 +844,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceFifthItem);
 
     var priceFifthItemA = document.createElement('a');
-    priceFifthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceFifthItemA.href = "#";
     priceFifthItem.appendChild(priceFifthItemA);
 
     var priceFifthItemCard = document.createElement('div');
@@ -870,7 +870,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceSixthItem);
 
     var priceSixthItemA = document.createElement('a');
-    priceSixthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceSixthItemA.href = "#";
     priceSixthItem.appendChild(priceSixthItemA);
 
     var priceSixthItemCard = document.createElement('div');
@@ -896,7 +896,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceSeventhItem);
 
     var priceSeventhItemA = document.createElement('a');
-    priceSeventhItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceSeventhItemA.href = "#";
     priceSeventhItem.appendChild(priceSeventhItemA);
 
     var priceSeventhItemCard = document.createElement('div');
@@ -922,7 +922,7 @@ function ShowPriceContent() {
     priceRow.appendChild(priceEighthItem);
 
     var priceEighthItemA = document.createElement('a');
-    priceEighthItemA.href = "https://htmlpreview.github.io/?https://github.com/AliThz/MFT-ASP.NET-BamaFrontPage/blob/main/index.html";
+    priceEighthItemA.href = "#";
     priceEighthItem.appendChild(priceEighthItemA);
 
     var priceEighthItemCard = document.createElement('div');
